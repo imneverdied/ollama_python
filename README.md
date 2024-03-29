@@ -4,7 +4,7 @@
 
 
 1.安裝[ollama](https://github.com/ollama/ollama)<br>
-2.安裝模型這裡用llava   CMD指令ollama run llava<br>
+2.安裝模型這裡用llava，CMD指令ollama run llava<br>
 3.CMD指令ollama serve<br>
 4.運行python<br>
 
